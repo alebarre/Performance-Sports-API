@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: performance-sports-api
+  profiles:
+    active: dev
+
+server:
+  port: 8080

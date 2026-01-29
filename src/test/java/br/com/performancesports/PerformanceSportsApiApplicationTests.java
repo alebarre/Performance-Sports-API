@@ -1,0 +1,15 @@
+package br.com.performancesports;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.test.context.ActiveProfiles;
+
+@ActiveProfiles("dev")
+@SpringBootTest
+class PerformanceSportsApiApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}

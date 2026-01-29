@@ -1,0 +1,47 @@
+spring:
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/performance_sports?useUnicode=true&characterEncoding=utf8&serverTimezone=America/Sao_Paulo
+    username: ps_user
+    password: ps_pass
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    open-in-view: false
+    properties:
+      hibernate:
+        format_sql: true
+
+  flyway:
+    enabled: true
+    baseline-on-migrate: true
+
+management:
+  endpoints:
+    web:
+      base-path: /actuator
+      exposure:
+        include: health,info
+  endpoint:
+    health:
+      show-details: never
+
+logging:
+  level:
+    org.hibernate.SQL: warn
+    org.hibernate.type.descriptor.sql: warn
+    org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping: TRACE
+
+security:
+  jwt:
+    secret: "leonardo_lemos_performance_sports_2026"
+    expiration-ms: 3600000
+
+app:
+  auth:
+    exposeTokens: true
+
+
+
+

@@ -1,0 +1,209 @@
+﻿[
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\.idea"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\.mvn"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\docs"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\src"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\target"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\.idea\\libraries"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\.mvn\\wrapper"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\src\\main"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\src\\test"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\src\\main\\java"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\src\\main\\resources"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\src\\main\\java\\br"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\src\\main\\java\\br\\com"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\src\\main\\java\\br\\com\\performancesports"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\src\\main\\java\\br\\com\\performancesports\\controller"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\src\\main\\java\\br\\com\\performancesports\\demo"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\src\\main\\java\\br\\com\\performancesports\\domain"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\src\\main\\java\\br\\com\\performancesports\\repository"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\src\\main\\java\\br\\com\\performancesports\\security"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\src\\main\\java\\br\\com\\performancesports\\service"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\src\\main\\java\\br\\com\\performancesports\\domain\\aluno"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\src\\main\\java\\br\\com\\performancesports\\domain\\common"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\src\\main\\java\\br\\com\\performancesports\\domain\\evento"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\src\\main\\java\\br\\com\\performancesports\\domain\\modalidade"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\src\\main\\java\\br\\com\\performancesports\\domain\\pagamento"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\src\\main\\java\\br\\com\\performancesports\\domain\\professor"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\src\\main\\java\\br\\com\\performancesports\\domain\\user"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\src\\main\\java\\br\\com\\performancesports\\domain\\modalidade\\dto"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\src\\main\\java\\br\\com\\performancesports\\security\\token"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\src\\main\\java\\br\\com\\performancesports\\service\\modalidade"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\src\\main\\resources\\db"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\src\\main\\resources\\static"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\src\\main\\resources\\templates"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\src\\main\\resources\\db\\migration"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\src\\test\\java"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\src\\test\\java\\br"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\src\\test\\java\\br\\com"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\src\\test\\java\\br\\com\\performancesports"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\target\\classes"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\target\\generated-sources"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\target\\generated-test-sources"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\target\\maven-status"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\target\\surefire-reports"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\target\\test-classes"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\target\\classes\\br"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\target\\classes\\db"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\target\\classes\\br\\com"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\target\\classes\\br\\com\\performancesports"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\target\\classes\\br\\com\\performancesports\\domain"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\target\\classes\\br\\com\\performancesports\\repository"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\target\\classes\\br\\com\\performancesports\\domain\\aluno"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\target\\classes\\br\\com\\performancesports\\domain\\common"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\target\\classes\\br\\com\\performancesports\\domain\\evento"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\target\\classes\\br\\com\\performancesports\\domain\\modalidade"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\target\\classes\\br\\com\\performancesports\\domain\\pagamento"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\target\\classes\\br\\com\\performancesports\\domain\\professor"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\target\\classes\\br\\com\\performancesports\\domain\\token"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\target\\classes\\br\\com\\performancesports\\domain\\user"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\target\\classes\\db\\migration"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\target\\generated-sources\\annotations"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\target\\generated-test-sources\\test-annotations"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\target\\maven-status\\maven-compiler-plugin"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\target\\maven-status\\maven-compiler-plugin\\compile"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\target\\maven-status\\maven-compiler-plugin\\testCompile"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\target\\maven-status\\maven-compiler-plugin\\compile\\default-compile"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\target\\maven-status\\maven-compiler-plugin\\testCompile\\default-testCompile"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\target\\test-classes\\br"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\target\\test-classes\\br\\com"
+    },
+    {
+        "FullName":  "C:\\projects\\spring\\performance-sports-api\\target\\test-classes\\br\\com\\performancesports"
+    }
+]
